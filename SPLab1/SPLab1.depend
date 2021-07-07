@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1625662383 source:c:\users\sofia\desktop\repositorios\sofia.zalazar.spllabo1\splab1\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625662383 c:\users\sofia\desktop\repositorios\sofia.zalazar.spllabo1\splab1\linkedlist.h
+
+1625668081 source:c:\users\sofia\desktop\repositorios\sofia.zalazar.spllabo1\splab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"paises.h"
+	"LinkedList.h"
+
+1625667980 c:\users\sofia\desktop\repositorios\sofia.zalazar.spllabo1\splab1\paises.h
+	"LinkedList.h"
+
+1625667960 source:c:\users\sofia\desktop\repositorios\sofia.zalazar.spllabo1\splab1\paises.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"paises.h"
+	"LinkedList.h"
+
